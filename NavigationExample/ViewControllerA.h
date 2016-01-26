@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewControllerA.h
 //  NavigationExample
 //
 //  Created by spb-VBerkuta on 25/01/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewControllerA : UIViewController
 
 @end
-
